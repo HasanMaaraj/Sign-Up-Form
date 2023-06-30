@@ -17,6 +17,29 @@ body {
     background-size: 100% 100%;
     flex-shrink: 1;
 }
+@font-face {
+    font-family: permanent-maker;
+    src: url(./assets/font/PermanentMarker-Regular.ttf);
+}
+
+#logo-section {
+    margin-top: 20%;
+    color: white;
+    font-family: permanent-maker;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(16, 16, 16, 0.5);
+}
+
+#image-source {
+    font-size: 0.7rem;
+    text-align: center;
+}
+
+#image-source a {
+    color: black;
+}
 
 .content {
     background-color: white;
@@ -29,7 +52,10 @@ body {
     flex-shrink: 1;
 }
 
-
+a {
+    color: rgb(199, 151, 54);
+    text-decoration: none;
+}
 
 #form-inputs {
     background-color: rgb(255, 249, 223);
