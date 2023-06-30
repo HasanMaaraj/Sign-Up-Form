@@ -39,6 +39,7 @@ body {
 
 #image-source a {
     color: black;
+    text-decoration: underline;
 }
 
 .content {
