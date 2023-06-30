@@ -15,6 +15,7 @@ body {
     background: url(./assets/raquel-fereshetian-qywq1bjfSz4-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    flex-shrink: 1;
 }
 
 .content {
@@ -25,6 +26,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-content: center;
+    flex-shrink: 1;
 }
 
 
