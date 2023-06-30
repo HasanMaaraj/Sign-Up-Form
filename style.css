@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+.img-container {
+    height: 100vh;
+    width: 33%;
+    background: url(./assets/raquel-fereshetian-qywq1bjfSz4-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.content {
+    background-color: red;
+    height: 100vh;
+    width: 67%;
+    display: flex;
+    flex-direction: column;
+}
