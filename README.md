@@ -1,5 +1,5 @@
 # Sign-Up-Form
-odin project's intermediate HTML and CSS project
+Sign up form design using HTML and CSS
 
 
 Credits:
